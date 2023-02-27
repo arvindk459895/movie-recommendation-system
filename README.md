@@ -37,7 +37,6 @@ The dataset used in this project is the MovieLens dataset. It contains over 5000
 
 ## Demo ##
 
-
 https://user-images.githubusercontent.com/24808293/221516629-4af1435f-4f7d-48a6-b5b2-00309f2d946b.mp4
 
 ## Contributing ##
