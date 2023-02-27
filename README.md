@@ -10,9 +10,7 @@
 
 **Dataset**
 
-**Project Structure**
-
-**Getting Started**
+**DEMO*
 
 **Contributing**
 
@@ -37,4 +35,11 @@ Matplotlib
 Seaborn
 
 ## Dataset ##
-The dataset used in this project is the MovieLens dataset. It contains over 100,000 movie ratings from users of the MovieLens website. The dataset can be downloaded from here.
+The dataset used in this project is the MovieLens dataset. It contains over 5000 movie ratings from users of the MovieLens website. The dataset can be downloaded from [here](https://www.kaggle.com/datasets/tmdb/tmdb-movie-metadata).
+
+## DEMO ##
+
+
+
+https://user-images.githubusercontent.com/24808293/221516629-4af1435f-4f7d-48a6-b5b2-00309f2d946b.mp4
+
