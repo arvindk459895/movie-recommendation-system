@@ -21,6 +21,7 @@ The aim of this project is to develop a movie recommendation system that can pro
 Collaborative filtering is a technique that uses the past behavior of users to generate recommendations. It identifies users who have similar preferences and recommends movies that they have liked in the past. Content-based filtering, on the other hand, recommends movies based on their attributes such as genre, cast, and director.
 
 ## Technologies Used ##
+
 Python 3.8
 
 Jupyter Notebook
@@ -28,8 +29,11 @@ Jupyter Notebook
 Scikit-learn
 
 Pandas
+
 NumPy
+
 Matplotlib
+
 Seaborn
 
 ## Dataset ##
