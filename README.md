@@ -5,23 +5,32 @@
 ## Table of Contents ##
 
 **Introduction**
+
 **Technologies Used**
+
 **Dataset**
+
 **Project Structure**
+
 **Getting Started**
+
 **Contributing**
+
 **License**
 
-##Introduction##
+## Introduction ##
 
 The aim of this project is to develop a movie recommendation system that can provide movie recommendations to users based on their past viewing history and preferences. The system uses collaborative filtering and content-based filtering techniques to generate recommendations for users.
 
 Collaborative filtering is a technique that uses the past behavior of users to generate recommendations. It identifies users who have similar preferences and recommends movies that they have liked in the past. Content-based filtering, on the other hand, recommends movies based on their attributes such as genre, cast, and director.
 
-##Technologies Used
+## Technologies Used ##
 Python 3.8
+
 Jupyter Notebook
+
 Scikit-learn
+
 Pandas
 NumPy
 Matplotlib
