@@ -10,11 +10,9 @@
 
 **Dataset**
 
-**DEMO*
+**Demo**
 
 **Contributing**
-
-**License**
 
 ## Introduction ##
 
@@ -37,9 +35,11 @@ Seaborn
 ## Dataset ##
 The dataset used in this project is the MovieLens dataset. It contains over 5000 movie ratings from users of the MovieLens website. The dataset can be downloaded from [here](https://www.kaggle.com/datasets/tmdb/tmdb-movie-metadata).
 
-## DEMO ##
-
+## Demo ##
 
 
 https://user-images.githubusercontent.com/24808293/221516629-4af1435f-4f7d-48a6-b5b2-00309f2d946b.mp4
 
+## Contributing ##
+
+Contributions are always welcome! If you have any suggestions or find any issues with the project, please feel free to open an issue or submit a pull request.
