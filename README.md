@@ -1,10 +1,13 @@
 ## Movie Recommendation System using Machine Learning
 
 This is a project that aims to develop a movie recommendation system using machine learning techniques. The system will recommend movies to users based on their past viewing history and preferences.
-
+---
 ## Table of Contents
+---
 __Introduction__
-Technologies Used
+---
+__Technologies Used__
+
 Dataset
 Project Structure
 Getting Started
