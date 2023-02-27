@@ -14,6 +14,8 @@
 
 **Contributing**
 
+**License**
+
 ## Introduction ##
 
 The aim of this project is to develop a movie recommendation system that can provide movie recommendations to users based on their past viewing history and preferences. The system uses collaborative filtering and content-based filtering techniques to generate recommendations for users.
@@ -46,3 +48,7 @@ https://user-images.githubusercontent.com/24808293/221516629-4af1435f-4f7d-48a6-
 ## Contributing ##
 
 Contributions are always welcome! If you have any suggestions or find any issues with the project, please feel free to open an issue or submit a pull request.
+
+## License ##
+
+This project is licensed under the MIT License. See the LICENSE file for details
